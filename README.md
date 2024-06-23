@@ -6,4 +6,4 @@ To use my sleep detetion model
 2. Install tensorflow and cv2 in the system using pip
 3. Run the gui.py file
 4. Upload the image in the gui
-5. Click on the detect button to a sleeping person in a car.
+5. Click on the detect button to detect a sleeping person in a car.
